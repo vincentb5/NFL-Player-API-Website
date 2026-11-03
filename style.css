@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(24, 92, 9);
+
+}
+
+.info {
+    margin: 100px;
+    padding: 50px;
+    width: 600px;
+
+    display: rgb(10, 137, 46);
+    border: solid 1px white;
+    text-align:center;
+    color:white;
+
+
+
+}
